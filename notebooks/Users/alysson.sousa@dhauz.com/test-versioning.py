@@ -8,3 +8,8 @@ print("Teste 1")
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC As revisões são salvas no repositório
+
+# COMMAND ----------
+
