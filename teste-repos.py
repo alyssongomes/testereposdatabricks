@@ -18,4 +18,4 @@ print("Será que vai dar pra gerar um conflito")
 
 # COMMAND ----------
 
-
+print("commit")
