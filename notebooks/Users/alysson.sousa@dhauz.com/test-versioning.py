@@ -15,3 +15,7 @@ print("Teste 1")
 
 # outra coisa
 print("outra coisa")
+
+# COMMAND ----------
+
+print("Vamos ver como vai ser esse merge")
