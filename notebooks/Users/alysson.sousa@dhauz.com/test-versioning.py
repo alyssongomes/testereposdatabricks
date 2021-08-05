@@ -19,3 +19,7 @@ print("outra coisa")
 # COMMAND ----------
 
 print("Vamos ver como vai ser esse merge")
+
+# COMMAND ----------
+
+print("Vamos ver se ele paga essas modificações")
