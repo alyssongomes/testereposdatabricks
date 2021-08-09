@@ -27,3 +27,7 @@ print("Vamos ver se o databricks pega as modificações que ele não gerencia")
 # COMMAND ----------
 
 print("Parece que dá pra linkar porque ele consegue vincular")
+
+# COMMAND ----------
+
+# mais uma modificação
